@@ -1,5 +1,4 @@
-# Deep-Learning
-Sentimental Analysis Using TFLearn
+# Sentimental Analysis Using TFLearn
 
 This code is modified version of original https://github.com/tflearn/tflearn/blob/master/examples/nlp/lstm.py.
 
